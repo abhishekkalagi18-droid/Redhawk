@@ -172,6 +172,6 @@ Every major component should consider:
 
 For example, an empty Assets page should explain that no assets have been discovered yet instead of showing a blank screen.
 
-## 7. Week 4 Design Outcome
+## 7. Design Outcome
 
 The UI/UX research establishes the screen structure and interaction model that can be implemented during the development phase beginning in Week 5.
