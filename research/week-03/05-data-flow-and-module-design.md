@@ -1,6 +1,5 @@
 # RedHawk Data Flow and Module Design
 
-## Week 3 – System Design
 
 ## 1. Objective
 
