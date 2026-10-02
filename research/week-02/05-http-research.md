@@ -1,6 +1,5 @@
 # HTTP/HTTPS Reconnaissance Research
 
-## RedHawk – Automated Attack Surface & External Reconnaissance Suite
 
 ## 1. Introduction
 
