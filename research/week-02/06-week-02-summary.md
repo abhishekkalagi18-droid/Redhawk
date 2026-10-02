@@ -2,7 +2,7 @@
 
 ## RedHawk – Automated Attack Surface & External Reconnaissance Suite
 
-## Week 2 Objective
+## Objective
 Study reconnaissance techniques and evaluate the tools that can provide the technical data required by RedHawk.
 
 ## Work Completed
