@@ -1,6 +1,5 @@
 # Nmap Research
 
-## RedHawk – Automated Attack Surface & External Reconnaissance Suite
 
 ## 1. Introduction
 
