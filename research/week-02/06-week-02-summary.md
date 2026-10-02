@@ -1,6 +1,5 @@
 # Week 2 Progress Summary
 
-## RedHawk – Automated Attack Surface & External Reconnaissance Suite
 
 ## 1. Week Objective
 
