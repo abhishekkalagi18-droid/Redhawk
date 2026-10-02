@@ -1,6 +1,5 @@
 # Reconnaissance Tool Evaluation
 
-## Week 2 – RedHawk
 
 ## Objective
 Evaluate existing reconnaissance tools and identify their potential role in RedHawk.
