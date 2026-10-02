@@ -1,6 +1,5 @@
 # RedHawk REST API Design
 
-## Week 3 – System Design
 
 ## 1. API Objective
 
