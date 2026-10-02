@@ -1,6 +1,5 @@
 # Security and Validation Requirements
 
-## Week 3 – RedHawk
 
 ## 1. Introduction
 
