@@ -1,7 +1,5 @@
 # RedHawk System Architecture
 
-## Week 3 – System Design
-
 ## 1. Architecture Objective
 
 RedHawk requires an architecture that separates the user interface, backend services, reconnaissance execution, result processing, and data storage.
