@@ -1,6 +1,5 @@
 # Week 1 Research Summary
 
-## Problem Statement
 
 Organizations can have many externally visible assets, including domains, subdomains, IP addresses, network services, and web applications.
 
