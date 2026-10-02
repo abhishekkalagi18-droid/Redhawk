@@ -1,6 +1,5 @@
 # RedHawk System Requirements
 
-## Week 3 – System Design
 
 ## 1. Introduction
 
