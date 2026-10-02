@@ -1,6 +1,5 @@
 # Reconnaissance Tool Evaluation
 
-## RedHawk – Automated Attack Surface & External Reconnaissance Suite
 
 ## 1. Introduction
 
