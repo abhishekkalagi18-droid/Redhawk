@@ -1,6 +1,5 @@
 # RedHawk Requirements
 
-## Problem Statement
 
 Before development begins, the required functionality and expected system behavior must be clearly defined.
 
