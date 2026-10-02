@@ -1,6 +1,5 @@
 # RedHawk Objectives
 
-## Problem Statement
 
 External reconnaissance often involves multiple specialized tools, manual execution, separate output files, and repetitive result-processing tasks.
 
