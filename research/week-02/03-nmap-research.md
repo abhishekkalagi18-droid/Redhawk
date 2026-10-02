@@ -1,6 +1,5 @@
 # Nmap Research
 
-## Week 2 – RedHawk
 
 ## Objective
 Understand how Nmap can support authorized network and service reconnaissance in RedHawk.
