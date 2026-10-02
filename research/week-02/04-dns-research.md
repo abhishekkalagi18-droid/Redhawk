@@ -1,6 +1,5 @@
 # DNS Reconnaissance Research
 
-## Week 2 – RedHawk
 
 ## Objective
 Understand DNS reconnaissance and identify information useful for RedHawk.
