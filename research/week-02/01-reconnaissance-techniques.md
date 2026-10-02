@@ -1,7 +1,5 @@
 # Reconnaissance Techniques
 
-## Week 2 – RedHawk
-
 ## Objective
 Study the main reconnaissance techniques required for RedHawk and understand what information each technique can provide.
 
