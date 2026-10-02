@@ -1,7 +1,5 @@
 # HTTP/HTTPS Reconnaissance Research
 
-## Week 2 – RedHawk
-
 ## Objective
 Understand how HTTP responses can provide useful information about externally accessible web services.
 
