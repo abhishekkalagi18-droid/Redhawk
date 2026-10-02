@@ -1,6 +1,5 @@
 # RedHawk Database Design
 
-## Week 3 – System Design
 
 ## 1. Database Objective
 
