@@ -1,6 +1,5 @@
 # Problems with Manual Reconnaissance
 
-## Problem Statement
 
 Security analysts often use multiple specialized tools during reconnaissance. When results are collected and managed manually, the workflow can become **time-consuming, inconsistent, repetitive, and difficult to manage**.
 
